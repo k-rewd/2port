@@ -28,7 +28,7 @@ export default function ProjectsSection() {
 			title: "JobJr",
 			description: "[Internship] Fully automated scripts with the purpose of scraping and filling out required job application data; Selenium, BS4",
 			image: "/jobsjr.gif",
-			link: "#",
+			link: "https://github.com/k-rewd/jjrscripts",
 		},
 		
 	];
